@@ -1,0 +1,1 @@
+let valeur = prompt("Quels sont votre nom, âge et ville ? ")
